@@ -1,3 +1,3 @@
 # AtCoder
 
-AtCoder で書いたコードです。
+AtCoder で書いたコードの記録です。
