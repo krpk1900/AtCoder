@@ -1,3 +1,3 @@
 # AtCoder
 
-AtCoder の記録です。
+AtCoderの記録です。
