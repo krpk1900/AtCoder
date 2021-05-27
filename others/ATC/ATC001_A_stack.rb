@@ -29,9 +29,9 @@ def dfs()
   while !stack.empty? do
     # p stack
     # stackから1つ取り出す
-    p = stack.pop
-    x = p[0]
-    y = p[1]
+    point = stack.pop
+    x = point[0]
+    y = point[1]
 
     # 位置が迷路の中か壁でないかこれまで到達していない場合
     if (0<=x && x<W && 0<=y && y<H && $c[y][x]!='#' && !$reached[y][x] )
